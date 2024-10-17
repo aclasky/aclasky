@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## Professional
+I have a PhD in Chemical Engineering and I'm currently working on developing **self-driving labs (SDLs)** to accelerate materials discovery. My main focus is on therapeutics but materials science applies to all kinds of different problems. While I have some background in coding, I am looking to improve my skills.
+
+
 <!--
 **aclasky/aclasky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
